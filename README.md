@@ -1,5 +1,5 @@
 # PepQuant
-PepQuant is a short-read RNA-seq quantification tool derived from the miniQuant source code.
+PepQuant is a short-read Proteoform quantification tool derived from the miniQuant source code.
 
 This repository contains a short-read focused version of miniQuant, called PepQuant-S, adapted to run paired-end short reads quantification with the `PepQuant` command.
 
